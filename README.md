@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chavarahul
-- 👀 I’m interested in Wed development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning frontened
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
