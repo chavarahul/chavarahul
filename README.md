@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">I'm Rahul <br>- 🔭 I’m working as  frontend developer<br>- 📚 I'm currently learning  node js</p>
+<p align="center">I'm Rahul <br>- 🔭 I’m working as  frontend developer<br>- 📚 I'm currently learning  express js</p>
 
 ###
 
